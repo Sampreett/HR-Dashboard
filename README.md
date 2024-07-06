@@ -9,7 +9,7 @@ This dashboard provides an in-depth analysis of various HR metrics, offering ins
   - Subordinate and manager share according to department.
 
     
-![Employee Diversity](Employee%20Diversity.png)
+![Employee Diversity](images/Employee%20Diversity.png)
 
 ---
 
@@ -17,7 +17,7 @@ This dashboard provides an in-depth analysis of various HR metrics, offering ins
   - Metrics on overall employees, attrition employees, current employees, and attrition percentage.
   - Breakdown of attrition percentage by department, gender, and promotion status (due for promotion or not).
 
-![Attrition Analysis](Attrition%20Analysis.png)
+![Attrition Analysis](images/Attrition%20Analysis.png)
 
 ---
 
@@ -26,7 +26,7 @@ This dashboard provides an in-depth analysis of various HR metrics, offering ins
   - Annual income distribution by job role and stock preference.
  
 
-![Income Distribution](Income%20Distribution.png)
+![Income Distribution](images/Income%20Distribution.png)
 
 ---
 
@@ -37,7 +37,7 @@ This dashboard provides an in-depth analysis of various HR metrics, offering ins
   - Distribution of employees according to their type of qualification.
  
   
-![Trainings Qualifications & Experience](Trainings%20Qualifications%20&%20Experience.png)
+![Trainings Qualifications & Experience](images/Trainings%20Qualifications%20&%20Experience.png)
 
 ---
 
@@ -47,7 +47,7 @@ This dashboard provides an in-depth analysis of various HR metrics, offering ins
   - HR job involvement rating and total experience distribution among HR employees.
 
     
-![HR KPIs](HR%20KPIs.png)
+![HR KPIs](images/HR%20KPIs.png)
 
 ---
 
@@ -58,6 +58,6 @@ This dashboard provides an in-depth analysis of various HR metrics, offering ins
   - Percentage of promotions due and received for each job role.
  
     
-![Promotions Travels & Overtimes](Promotions%20Travels%20&%20Overtimes.png)
+![Promotions Travels & Overtimes](images/Promotions%20Travels%20&%20Overtimes.png)
 
 ---

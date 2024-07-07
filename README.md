@@ -1,4 +1,4 @@
-# HR Dashboard
+
 
 **Description:**  
 This dashboard provides an in-depth analysis of various HR metrics, offering insights into employee diversity, attrition, income, training, qualifications, and key performance indicators (KPIs). It is designed to help understand the workforce dynamics and support strategic HR decisions.

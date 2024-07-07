@@ -1,7 +1,7 @@
 
 
 **Description:**  
-This dashboard provides an in-depth analysis of various HR metrics, offering insights into employee diversity, attrition, income, training, qualifications, and key performance indicators (KPIs). It is designed to help understand the workforce dynamics and support strategic HR decisions.
+This dashboard provides an in-depth analysis of various HR metrics, offering insights into employee diversity, attrition, income, training, qualifications, and key performance indicators (KPIs). It is designed to help understand the workforce dynamics and support strategic HR decisions. Here are the [Project files](https://github.com/Sampreett/Visualization-Exercises-for-practice-)
 
 - **Employee Diversity:**
   - Overview of overall employees, current employees, subordinates, and managers.

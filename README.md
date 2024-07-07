@@ -6,8 +6,8 @@ This dashboard provides an in-depth analysis of various HR metrics, offering ins
 - **Employee Diversity:**
   - Overview of overall employees, current employees, subordinates, and managers.
   - Employee distribution by department, tenure, job role, and average employee tenure in each role.
-  - Subordinate and manager share according to department.
-
+  - Subordinate and manager share according to department. 
+<br>
     
 ![Employee Diversity](images/Employee%20Diversity.png)
 
@@ -16,6 +16,7 @@ This dashboard provides an in-depth analysis of various HR metrics, offering ins
 - **Attrition Analysis:**
   - Metrics on overall employees, attrition employees, current employees, and attrition percentage.
   - Breakdown of attrition percentage by department, gender, and promotion status (due for promotion or not).
+  <br>
 
 ![Attrition Analysis](images/Attrition%20Analysis.png)
 
@@ -24,7 +25,7 @@ This dashboard provides an in-depth analysis of various HR metrics, offering ins
 - **Employee Income:**
   - Analysis of average income by total years of experience, annual income, monthly income, average work-life balance, and average hike percentage.
   - Annual income distribution by job role and stock preference.
- 
+ <br>
 
 ![Income Distribution](images/Income%20Distribution.png)
 
@@ -35,7 +36,7 @@ This dashboard provides an in-depth analysis of various HR metrics, offering ins
   - Tenure in the company compared to total experience for each job role.
   - Total training sessions held, average qualification rating, average tenure.
   - Distribution of employees according to their type of qualification.
- 
+ <br>
   
 ![Trainings Qualifications & Experience](images/Trainings%20Qualifications%20&%20Experience.png)
 
@@ -46,7 +47,7 @@ This dashboard provides an in-depth analysis of various HR metrics, offering ins
   - HR employee count, non-HR employee count, HR turnover ratio, HR employee ratio over all employees.
   - HR job involvement rating and total experience distribution among HR employees.
 
-    
+    <br>
 ![HR KPIs](images/HR%20KPIs.png)
 
 ---
@@ -56,7 +57,7 @@ This dashboard provides an in-depth analysis of various HR metrics, offering ins
   - Percentage of overtime employees according to salary slab.
   - Employee business and travel frequency.
   - Percentage of promotions due and received for each job role.
- 
+ <br>
     
 ![Promotions Travels & Overtimes](images/Promotions%20Travels%20&%20Overtimes.png)
 
